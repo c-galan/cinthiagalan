@@ -1,0 +1,130 @@
+[
+  {
+    "family": "YUC",
+    "color":  "#4f7c5a"
+  },
+  {
+    "family": "CAMP",
+    "color":  "#52815d"
+  },
+  {
+    "family": "ZAC",
+    "color":  "#53825e"
+  },
+  {
+    "family": "CHIS",
+    "color":  "#52815d"
+  },
+  {
+    "family": "MOR",
+    "color":  "#5b8b5e"
+  },
+  {
+    "family": "QRO",
+    "color":  "#5b8c5c"
+  },
+  {
+    "family": "AGS",
+    "color":  "#86b75b"
+  },
+  {
+    "family": "CDMX",
+    "color":  "#c2da60"
+  },
+  {
+    "family": "COAH",
+    "color":  "#c2da60"
+  },
+  {
+    "family": "NAY",
+    "color":  "#e6ee64"
+  },
+  {
+    "family": "COL",
+    "color":  "#fdf965"
+  },
+  {
+    "family": "SLP",
+    "color":  "#fcf363"
+  },
+  {
+    "family": "TLAX",
+    "color":  "#fbee65"
+  },
+  {
+    "family": "DGO",
+    "color":  "#fae75f"
+  },
+  {
+    "family": "MICH",
+    "color":  "#f7e462"
+  },
+  {
+    "family": "BCN",
+    "color":  "#f8e65f"
+  },
+  {
+    "family": "JAL",
+    "color":  "#f4cf5b"
+  },
+  {
+    "family": "NL",
+    "color":  "#f5c95a"
+  },
+  {
+    "family": "SIN",
+    "color":  "#f5c95a"
+  },
+  {
+    "family": "NACIONAL",
+    "color":  "#eb894e"
+  },
+  {
+    "family": "BCS",
+    "color":  "#eb894e"
+  },
+  {
+    "family": "CHIH",
+    "color":  "#ea704d"
+  },
+  {
+    "family": "ROO",
+    "color":  "#e96d4b"
+  },
+  {
+    "family": "HGO",
+    "color":  "#e96d4b"
+  },
+  {
+    "family": "VER",
+    "color":  "#e64f47"
+  },
+  {
+    "family": "MX",
+    "color":  "#e74f48"
+  },
+  {
+    "family": "GRO",
+    "color":  "#e64f47"
+  },
+  {
+    "family": "OAX",
+    "color":  "#e04e48"
+  },
+  {
+    "family": "PUE",
+    "color":  "#e04e48"
+  },
+  {
+    "family": "GTO",
+    "color":  "#d44c45"
+  },
+  {
+    "family": "TAB",
+    "color":  "#ce4c47"
+  },
+  {
+    "family": "TAM",
+    "color":  "#b84a47"
+  }
+]
